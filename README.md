@@ -1,6 +1,6 @@
 # Views
 <h1>Homepage</h1>
-<img src="![HomePage](https://user-images.githubusercontent.com/52311969/74857026-19ef3500-5369-11ea-8f84-44b12ec61d94.png)"/>
+<img src="https://user-images.githubusercontent.com/52311969/74857026-19ef3500-5369-11ea-8f84-44b12ec61d94.png"/>
 # Php_Gallery
 <ul>
   <li>Install Xammp or wammp for your Operating System</li>

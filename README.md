@@ -20,7 +20,7 @@
 <li>Unzip It you will find a TrueWalls Copy It to Xammp Directory(C://xammpp/htdocs/dashboad)</li>
 <li>Open Xammp and start http and mysql</li>
 <li>Launch a browser and type 127.0.0.1 or localhost/dashboard/TrueWalls</li>
-<li>Site Luanches but with some database errors to avoid This That TrueWalls Contains a gallery.sql file</li>
+<li>Site Luanches but with some database errors to avoid This That TrueWalls folder Contains a gallery.sql file</li>
 <li>open a new tab and type localhost/dashboard</li>
 <li>after step 6 you will find a xammp default page with some nav link where you want to click phpmyadmin</li>
 <li>Now Create a Database with Left side New tab</li>
